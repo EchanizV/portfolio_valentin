@@ -1,8 +1,8 @@
 const placeholderProjects = [
   {
-    title: "Projet à venir",
-    description: "Vos futurs projets seront affichés ici. Un design de portfolio épuré prêt à être personnalisé.",
-    tags: ["React", "Next.js"],
+    title: "Innofab",
+    description: "Nous avons du refaire la refonte du site web complet de l'Innofab, un fablab de Castres.",
+    tags: ["PHP", "JavaScript", "HTML", "CSS"],
   },
   {
     title: "Projet à venir",

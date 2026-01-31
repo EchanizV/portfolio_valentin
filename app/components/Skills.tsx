@@ -1,6 +1,6 @@
 const skills = [
-  { category: "Frontend", items: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind CSS"] },
-  { category: "Backend", items: ["Node.js", "Express", "MongoDB", "PostgreSQL"] },
+  { category: "Frontend", items: ["React", "Next.js", "Vue.js", "HTML", "CSS", "TypeScript", "Tailwind CSS"] },
+  { category: "Backend", items: ["Node.js", "Express", "MongoDB", "PostgreSQL", "SQL", "PHP", "CodeIgniter"] },
   { category: "Mobile", items: ["React Native", "Expo", "React Native Web"] },
   { category: "Desktop", items: ["C#", "Java", "Python"] },
   { category: "Big Data", items: ["Python", "SQL", "Spark", "PySpark", "Pandas", "Hive"] },
