@@ -1,6 +1,11 @@
 const skills = [
-  { category: "Frontend", items: ["React", "Next.js", "TypeScript", "Tailwind CSS"] },
-  { category: "Outils", items: ["Git", "Figma", "VSCode"] },
+  { category: "Frontend", items: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind CSS"] },
+  { category: "Backend", items: ["Node.js", "Express", "MongoDB", "PostgreSQL"] },
+  { category: "Mobile", items: ["React Native", "Expo", "React Native Web"] },
+  { category: "Desktop", items: ["C#", "Java", "Python"] },
+  { category: "Big Data", items: ["Python", "SQL", "Spark", "PySpark", "Pandas", "Hive"] },
+  { category: "DevOps", items: ["Docker", "GitLab CI/CD"] },
+  { category: "Outils", items: ["Git", "Figma", "VSCode", "Docker"] },
 ];
 
 export default function Skills() {
