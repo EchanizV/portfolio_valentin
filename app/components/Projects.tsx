@@ -9,14 +9,18 @@ const placeholderProjects: Project[] = [
   {
     title: "Innofab",
     description: "Nous avons du refaire la refonte du site web complet de l'Innofab, un fablab de Castres.",
-    tags: ["PHP", "JavaScript", "HTML", "CSS"],
-    githubUrl: "https://github.com/EchanizV/innofab",
+    tags: ["PHP", "JavaScript", "HTML", "CSS"]
   },
   {
-    title: "Projet à venir",
-    description: "Ajoutez vos réalisations pour mettre en valeur votre parcours et vos compétences.",
-    tags: ["TypeScript", "Tailwind"],
+    title: "Projet Big Data",
+    description: "Mise en place d'un environnement de travail pour le projet Big Data. Analyse des données de la base de données Hive.",
+    tags: ["Python", "Pandas", "Matplotlib", "HiveQL", "Docker"],
   },
+  {
+    title: "Restaurant ",
+    description: "Projection d'un logiciel de reservation pour un restaurant.",
+    tags: ["Java", "JavaFX"]
+  }
 ];
 
 export default function Projects() {
