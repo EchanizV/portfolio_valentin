@@ -20,6 +20,12 @@ const placeholderProjects: Project[] = [
     title: "Restaurant ",
     description: "Projection d'un logiciel de reservation pour un restaurant.",
     tags: ["Java", "JavaFX"]
+  },
+  {
+    title: "Projet Blue Lagoon",
+    description: "Développement d'un logiciel de gestion d'activités pour un hôtel.",
+    tags: ["PHP", "CodeIgniter", "MySQL", "HTML", "CSS", "CodeIgniter"],
+    githubUrl: "https://github.com/EchanizV/bluelagoon_bts",
   }
 ];
 
